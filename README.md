@@ -1,3 +1,3 @@
 # test_repo
 Test
-Local‚Å•ÒW‚µ‚Ü‚µ‚½B
+Localã§ç·¨é›†ã—ã¾ã—ãŸã€‚
