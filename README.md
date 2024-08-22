@@ -1,3 +1,4 @@
 # test_repo
-Test
-Localで編集しました。
+Test<br>
+Localで編集しました。<br>
+2個コミットします。
